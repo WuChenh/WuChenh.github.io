@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chenhua Wu</title>
+    <link>https://wuchenh.github.io/posts/</link>
+    <description>Recent content in Posts on Chenhua Wu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chenhuawu@nwafu.edu.cn (Chenhua Wu)</managingEditor>
+    <webMaster>chenhuawu@nwafu.edu.cn (Chenhua Wu)</webMaster>
+    <copyright>© 2024 Chenhua Wu</copyright>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wuchenh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced practice</title>
+      <link>https://wuchenh.github.io/posts/advanced_2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <author>chenhuawu@nwafu.edu.cn (Chenhua Wu)</author>
+      <guid>https://wuchenh.github.io/posts/advanced_2024/</guid>
+      <description>Advanced practice aimed at high performance.</description>
+      
+    </item>
+    
+    <item>
+      <title>Getting started with ML4Bio</title>
+      <link>https://wuchenh.github.io/posts/guide_ml4bio/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <author>chenhuawu@nwafu.edu.cn (Chenhua Wu)</author>
+      <guid>https://wuchenh.github.io/posts/guide_ml4bio/</guid>
+      <description>A brief guide to getting started with machine learning for biology.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
