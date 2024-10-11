@@ -4,19 +4,25 @@
 
   <url>
     <loc>https://wuchenh.github.io/posts/advanced_2024/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wuchenh.github.io/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wuchenh.github.io/posts/guide_ml4bio/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wuchenh.github.io/posts/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -29,12 +35,6 @@
   <url>
     <loc>https://wuchenh.github.io/publications/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://wuchenh.github.io/posts/guide_ml4bio/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

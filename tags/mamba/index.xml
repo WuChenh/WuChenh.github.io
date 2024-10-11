@@ -6,15 +6,13 @@
     <description>Recent content in Mamba on Chenhua Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>chenhuawu@nwafu.edu.cn (Chenhua Wu)</managingEditor>
-    <webMaster>chenhuawu@nwafu.edu.cn (Chenhua Wu)</webMaster>
-    <copyright>© 2024 Chenhua Wu</copyright>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wuchenh.github.io/tags/mamba/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wuchenh.github.io/tags/mamba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with ML4Bio</title>
       <link>https://wuchenh.github.io/posts/guide_ml4bio/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <author>chenhuawu@nwafu.edu.cn (Chenhua Wu)</author>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://wuchenh.github.io/posts/guide_ml4bio/</guid>
       <description>A brief guide to getting started with machine learning for biology.</description>
       
