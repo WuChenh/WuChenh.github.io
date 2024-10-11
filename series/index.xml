@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Chenhua Wu</title>
+    <title>Series on Chenhua Wu&#39;s Homepage</title>
     <link>https://wuchenh.github.io/series/</link>
-    <description>Recent content in Series on Chenhua Wu</description>
+    <description>Recent content in Series on Chenhua Wu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <managingEditor>chenhuawu@nwafu.edu.cn (Chenhua Wu)</managingEditor>
+    <webMaster>chenhuawu@nwafu.edu.cn (Chenhua Wu)</webMaster>
+    <copyright>© 2024 Chenhua Wu</copyright>
     <atom:link href="https://wuchenh.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

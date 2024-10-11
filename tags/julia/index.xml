@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Julia on Chenhua Wu</title>
+    <title>Julia on Chenhua Wu&#39;s Homepage</title>
     <link>https://wuchenh.github.io/tags/julia/</link>
-    <description>Recent content in Julia on Chenhua Wu</description>
+    <description>Recent content in Julia on Chenhua Wu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <managingEditor>chenhuawu@nwafu.edu.cn (Chenhua Wu)</managingEditor>
+    <webMaster>chenhuawu@nwafu.edu.cn (Chenhua Wu)</webMaster>
+    <copyright>© 2024 Chenhua Wu</copyright>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wuchenh.github.io/tags/julia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced practice</title>
       <link>https://wuchenh.github.io/posts/advanced_2024/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>chenhuawu@nwafu.edu.cn (Chenhua Wu)</author>
       <guid>https://wuchenh.github.io/posts/advanced_2024/</guid>
       <description>Advanced practice aimed at high performance.</description>
       
@@ -22,7 +24,7 @@
       <title>Dual-Extraction Modeling: A multimodal deep learning architecture for phenotypic prediction and functional gene mining of complex traits</title>
       <link>https://wuchenh.github.io/publications/2024_dem/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      
+      <author>chenhuawu@nwafu.edu.cn (Chenhua Wu)</author>
       <guid>https://wuchenh.github.io/publications/2024_dem/</guid>
       <description>Yanlin Ren&lt;sup&gt;†&lt;/sup&gt;, &lt;strong&gt;Chenhua Wu&lt;/strong&gt;&lt;sup&gt;†&lt;/sup&gt;, He Zhou&lt;sup&gt;†&lt;/sup&gt;, Xiaona Hu&lt;sup&gt;*&lt;/sup&gt;, Zhenyan Miao&lt;sup&gt;*&lt;/sup&gt;. &lt;em&gt;&lt;strong&gt;Plant Communications&lt;/strong&gt;&lt;/em&gt;.</description>
       
